@@ -37,6 +37,30 @@ http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="IPv6央视",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="世界地理" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_SJDL.png" group-title="IPv6央视",CCTV-世界地理
+http://61.190.129.195:8686/rtp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="23" tvg-name="风云音乐" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYYY.png" group-title="IPv6央视",CCTV-风云音乐
+http://61.190.129.195:8686/rtp/238.1.79.64:4648
+#EXTINF:-1 tvg-id="24" tvg-name="风云足球" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYZQ.png" group-title="IPv6央视",CCTV-风云足球
+http://61.190.129.195:8686/rtp/238.1.79.57:4592
+#EXTINF:-1 tvg-id="25" tvg-name="风云剧场" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_FYJC.png" group-title="IPv6央视",CCTV-风云剧场
+http://61.190.129.195:8686/rtp/238.1.79.62:4632
+#EXTINF:-1 tvg-id="26" tvg-name="第一剧场" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_DYJC.png" group-title="IPv6央视",CCTV-第一剧场
+http://61.190.129.195:8686/rtp/238.1.79.63:4640
+#EXTINF:-1 tvg-id="27" tvg-name="怀旧剧场" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_HJJC.png" group-title="IPv6央视",CCTV-怀旧剧场
+http://61.190.129.195:8686/rtp/238.1.79.61:4624
+#EXTINF:-1 tvg-id="29" tvg-name="台球" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_YSTQ.png" group-title="IPv6央视",CCTV-台球
+http://61.190.129.195:8686/rtp/238.1.79.59:4608
+#EXTINF:-1 tvg-id="30" tvg-name="高尔夫网球" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_GOLF.png" group-title="IPv6央视",CCTV-高尔夫·网球
+http://61.190.129.195:8686/rtp/238.1.79.58:4600
+#EXTINF:-1 tvg-id="31" tvg-name="女性时尚" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_NXSS.png" group-title="IPv6央视",CCTV-女性时尚
+http://61.190.129.195:8686/rtp/238.1.79.55:4576
+#EXTINF:-1 tvg-id="33" tvg-name="文化精品" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_WHJP.png" group-title="IPv6央视",CCTV-文化精品
+http://61.190.129.195:8686/rtp/238.1.79.54:4568
+#EXTINF:-1 tvg-id="35" tvg-name="兵器科技" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_BQKJ.png" group-title="IPv6央视",CCTV-兵器科技
+http://61.190.129.195:8686/rtp/238.1.79.56:4584
+#EXTINF:-1 tvg-id="36" tvg-name="电视指南" tvg-logo="https://github.com/hououinkami/AppleTV/raw/main/ChannelLogo/China/CCTV_DSZN.png" group-title="IPv6央视",CCTV-电视指南
+http://61.190.129.195:8686/rtp/238.1.79.53:4560
 #EXTINF:-1 tvg-id="41" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="IPv6央视",CETV-1
 http://221.219.66.252:18888/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-id="42" tvg-name="CETV4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="IPv6央视",CETV-4
