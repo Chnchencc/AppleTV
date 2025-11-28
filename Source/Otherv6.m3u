@@ -69,5 +69,3 @@ rtp://239.3.1.196:9012
 rtp://239.3.1.199:9000
 #EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="IPv6数字",动画高清
 rtp://239.3.1.80:4120
-#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" group-title="IPv6数字",证券服务
-rtp://239.3.1.24:8001
